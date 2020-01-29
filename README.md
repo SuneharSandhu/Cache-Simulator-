@@ -17,8 +17,8 @@ block size : must be a power of 2 integer represented in decimal(base 10)
   
 replacement algorithm:
   
-  -FIFO - simulates first-in-first-out replacement
-  -LRU - simulates least-recently-used replacement
+  - FIFO - simulates first-in-first-out replacement
+  - LRU - simulates least-recently-used replacement
   
 write policy: -wt - simulates a write-through cache
   
