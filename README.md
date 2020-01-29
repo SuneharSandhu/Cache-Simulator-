@@ -1,4 +1,4 @@
-# Cache-Simulator-
+# Cache-Simulator
 
 This is a simple cache simulator that calculates the number of memory writes and memory reads for a memory access pattern provided as a file. The inputs to the program, aside from the file listing the memory accesses, are parameters that specify the cache to be simulated.
 
